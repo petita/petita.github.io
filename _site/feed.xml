@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T21:52:36-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Clean Blog</title><subtitle>A Blog Theme by Start Bootstrap</subtitle><author><name>Ivan Oliva</name></author><entry><title type="html">Cuatro camellos y un funeral</title><link href="http://localhost:4000/2019/03/26/egipto.html" rel="alternate" type="text/html" title="Cuatro camellos y un funeral" /><published>2019-03-26T11:45:13-03:00</published><updated>2019-03-26T11:45:13-03:00</updated><id>http://localhost:4000/2019/03/26/egipto</id><content type="html" xml:base="http://localhost:4000/2019/03/26/egipto.html">&lt;p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-26T21:59:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Clean Blog</title><subtitle>A Blog Theme by Start Bootstrap</subtitle><author><name>Ivan Oliva</name></author><entry><title type="html">Cuatro camellos y un funeral</title><link href="http://localhost:4000/2019/03/26/egipto.html" rel="alternate" type="text/html" title="Cuatro camellos y un funeral" /><published>2019-03-26T11:45:13-03:00</published><updated>2019-03-26T11:45:13-03:00</updated><id>http://localhost:4000/2019/03/26/egipto</id><content type="html" xml:base="http://localhost:4000/2019/03/26/egipto.html">&lt;p&gt;
   Muy bien, pueden pasar, pero apúrense que ya se está por llenar un taxi” dijo en ingles el policía mientras nos devolvía los pasaportes sellados. La emoción nos invadió de tal manera que teníamos ganas de saltar de alegría ahí en plena frontera. Después de la odisea que fue hacer migraciones en Israel, parecía mentira que pudiésemos pasar tan rápido desde Eilat (Israel) a Taba (Egipto), considerando que son dos países que se encuentran en guerra hace años. Pero claro, somos turistas. Ojalá todos los habitantes de Oriente Medio contaran con el mismo privilegio que nosotros para atravesar fronteras que ni deberían existir. Digo nosotros porque llevaba más de un mes viajando con Camilo, un compañero de aventuras colombiano que me regaló el camino.
 &lt;/p&gt;
 
@@ -155,7 +155,7 @@ El día se me hizo interminable. Había intentado comprar un agua con la tarjeta
   Agunos recuerdos...
  &lt;/h2&gt;
 
-&lt;div id=&quot;carousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;div id=&quot;carouselExampleIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
   &lt;ol class=&quot;carousel-indicators&quot;&gt;
     &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
     &lt;li data-target=&quot;#carouselExampleIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
@@ -165,21 +165,21 @@ El día se me hizo interminable. Había intentado comprar un agua con la tarjeta
     &lt;div class=&quot;carousel-item active&quot;&gt;
       &lt;img class=&quot;d-block w-100&quot; src=&quot;///img/posts/china/china-01.jpg&quot; alt=&quot;First slide&quot;&gt;
       &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
-      &lt;h5&gt;La hora chino&lt;/h5&gt;
-      &lt;p&gt;era el 10 de octubre&lt;/p&gt;
-    &lt;/div&gt;
+        &lt;h5&gt;Dia&lt;/h5&gt;
+        &lt;p&gt;Eran 4 de abril&lt;/p&gt;
+      &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
       &lt;img class=&quot;d-block w-100&quot; src=&quot;///img/posts/china/china-02.jpg&quot; alt=&quot;Second slide&quot;&gt;
       &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
-        &lt;h5&gt;Calzon con palometa?&lt;/h5&gt;
-        &lt;p&gt;Los chinos si sacan los trapitos al sol&lt;/p&gt;
+        &lt;h5&gt;...&lt;/h5&gt;
+        &lt;p&gt;...&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;carousel-item&quot;&gt;
       &lt;img class=&quot;d-block w-100&quot; src=&quot;///img/posts/china/china-03.jpg&quot; alt=&quot;Third slide&quot;&gt;
       &lt;div class=&quot;carousel-caption d-none d-md-block&quot;&gt;
-        &lt;h5&gt;La costanera de rosario photoshopeada &lt;/h5&gt;
+        &lt;h5&gt;...&lt;/h5&gt;
         &lt;p&gt;...&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
@@ -193,7 +193,6 @@ El día se me hizo interminable. Había intentado comprar un agua con la tarjeta
     &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
   &lt;/a&gt;
 &lt;/div&gt;
-
 
 &lt;!-- &lt;h2 class=&quot;section-heading&quot;&gt;The Final Frontier&lt;/h2&gt;
 
